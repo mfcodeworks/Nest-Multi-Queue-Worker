@@ -1,4 +1,4 @@
-# NestJS P2P Full Mesh Tracker
+# NestJS Multi-Queue Worker
 
 ## Description
 
